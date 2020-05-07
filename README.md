@@ -1,6 +1,7 @@
 # Emoji Copier
 
 A simple browser extension to help you quickly copy and paste emoji.
+![](src/assets/emoji-copier-cover.png)
 
 ## Development server
 
