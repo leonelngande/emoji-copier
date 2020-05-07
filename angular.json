@@ -21,10 +21,16 @@
             "aot": true,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/icon16.png",
+              "src/icon32.png",
+              "src/icon48.png",
+              "src/icon128.png",
+              "src/assets",
+              "src/manifest.json",
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.scss",
+              "node_modules/@ctrl/ngx-emoji-mart/picker.css"
             ],
             "scripts": []
           },
@@ -88,7 +94,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.scss"
             ],
             "scripts": []
           }
